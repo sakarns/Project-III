@@ -1,0 +1,17 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: "#e3f2fd"
+  image: assets/images/minimills_logo.png
+
+  color_dark: "#2f2f2f"
+  image_dark: assets/images/minimills_logo.png
+
+  android_12:
+    color: "#e3f2fd"
+    image: assets/images/minimills_logo.png
+
+    color_dark: "#2f2f2f"
+    image_dark: assets/images/minimills_logo.png
